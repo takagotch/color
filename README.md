@@ -7,6 +7,9 @@ https://www.webpagefx.com/web-design/color-picker/
 .js
 https://github.com/Qix-/color
 
+.go
+https://github.com/fatih/color
+
 ```js
 var color = Color('#7743CE').alpha(0.5).lighten(0.5);
 console.log(color.hsl().string());
