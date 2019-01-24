@@ -2,6 +2,9 @@
 ---
 https://www.webpagefx.com/web-design/color-picker/
 
+### 憲法色　Kenpo-color
+#543f32
+
 ---
 
 .js
